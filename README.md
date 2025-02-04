@@ -28,7 +28,11 @@ This tool allows you to perform various actions on your Discord server:
 
 ## ⚠️ Disclaimer  
 
-This project is for **educational purposes only**. The use of this tool on any server without explicit permission is strictly prohibited and may violate Discord’s Terms of Service.  
+This software is provided **for educational and research purposes only**. The developer is **not responsible** for any misuse of this tool. **Any actions performed using this tool are the sole responsibility of the user.**  
+
+Using this tool on any server **without explicit permission** may violate **Discord's Terms of Service** and could result in **account suspension or legal consequences**.  
+
+By using MasonNukerV1.0, you agree that **you take full responsibility** for any actions performed with this software.  
 
 ## ❌ Exit  
 
