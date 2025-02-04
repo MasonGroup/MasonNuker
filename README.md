@@ -28,6 +28,13 @@ This tool allows you to perform various actions on your Discord server:
 - 🤖 **Kill all bots** *(Coming Soon)*  
 - 🚫 **Ban the server** *(Coming Soon)*  
 
+## 🛠️ Requirements  
+
+To run **MasonNukerV1.0**, you must have **.NET 8.0** installed on your system.  
+
+🔗 **Download .NET 8.0 SDK (Windows x64):**  
+[Click here to download](https://download.visualstudio.microsoft.com/download/pr/4b3b488c-9e69-4d60-bba2-79412b68d15d/b55f49a270c3413a6ea4b208f820515d/dotnet-sdk-8.0.405-win-x64.exe)  
+
 ## ⚠️ Disclaimer  
 
 This software is provided **for educational and research purposes only**. The developer (**Specter**) is **not responsible** for any misuse of this tool. **Any actions performed using this tool are the sole responsibility of the user.**  
