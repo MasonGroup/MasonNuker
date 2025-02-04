@@ -4,6 +4,8 @@
 
 **MasonNukerV1.0** is a closed-source C# project designed to control a Discord server. The `.exe` file is available, but the source code is not included.  
 
+💀 **Created by: Specter**  
+
 ![MasonNukerV1.0](https://i.ibb.co/rGRzg2dS/image.png)  
 
 ## ⚠️ Features  
@@ -28,7 +30,7 @@ This tool allows you to perform various actions on your Discord server:
 
 ## ⚠️ Disclaimer  
 
-This software is provided **for educational and research purposes only**. The developer is **not responsible** for any misuse of this tool. **Any actions performed using this tool are the sole responsibility of the user.**  
+This software is provided **for educational and research purposes only**. The developer (**Specter**) is **not responsible** for any misuse of this tool. **Any actions performed using this tool are the sole responsibility of the user.**  
 
 Using this tool on any server **without explicit permission** may violate **Discord's Terms of Service** and could result in **account suspension or legal consequences**.  
 
