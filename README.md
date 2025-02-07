@@ -51,7 +51,7 @@ Tool Version: V2.0
 ```
 
 To run **MasonNukerV2.0**, you must have **.NET 8.0** installed on your system.  
-
+---
 🔗 **Download .NET 8.0 SDK (Windows x64):**  
 [Click here to download](https://download.visualstudio.microsoft.com/download/pr/4b3b488c-9e69-4d60-bba2-79412b68d15d/b55f49a270c3413a6ea4b208f820515d/dotnet-sdk-8.0.405-win-x64.exe)  
 
