@@ -10,9 +10,9 @@
 888   "   888 888  888      X88 Y88..88P 888  888 888   Y8888 Y88b 888 888 "88b Y8b.     888
 888       888 "Y888888  88888P'  "Y88P"  888  888 888    Y888  "Y88888 888  888  "Y8888  888
 ```
-<p align="center">
-  <img src="https://i.ibb.co/RpRfHH1H/image.png" alt="LOGO" />
-</p>
+
+![Options](https://i.ibb.co/RpRfHH1H/image.png)
+
 ## Information
 ```
 Server: Selected server name  
